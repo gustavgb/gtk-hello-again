@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2018 Gustav Burchardt <gustavburchardt@gmail.com> -->
+<component type="desktop">
+  <id>com.github.gustavgb.gtk-hello-again</id>
+  <metadata_license>CC0</metadata_license>
+  <name>Hello World</name>
+  <summary>The one and only Hello World application to fill your needs</summary>
+  <description>
+    <p>A quick summary to simply sum up everything that I need to say</p>
+  </description>
+</component>
