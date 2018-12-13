@@ -11,10 +11,10 @@ executable(
 
 install_data(
   join_paths('data', meson.project_name() + '.desktop'),
-  install_dir: join_paths(get_options('datadir'), 'applications')
+  install_dir: join_paths(get_option('datadir'), 'applications')
 )
 
 install_data(
   join_paths('data', meson.project_name() + '.appmeta.xml'),
-  install_dir: join_paths(get_options('datadir') + 'metainfo')
+  install_dir: join_paths(get_option('datadir') + 'metainfo')
 )
